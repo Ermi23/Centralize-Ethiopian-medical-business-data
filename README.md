@@ -61,8 +61,8 @@ python src/object_detection/run_yolo.py
 uvicorn src.api.main:app --reload
 
 - API Endpoint
-GET /data - Retrieve cleaned and transformed data
-POST /detect - Submit an image for object detection
+1. **GET /data** - Retrieve cleaned and transformed data
+2. **POST /detect** - Submit an image for object detection
 
 - Testing  : Run tests using pytest:
 pytest.
