@@ -352,3 +352,51 @@ task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Us
 task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
 2024-10-11 11:28:09,637 ERROR:Task was destroyed but it is pending!
 task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 12:56:02,029 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 12:56:02,143 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 12:56:02,366 WARNING:Server sent a very new message with ID 7424454817343221765, ignoring (see FAQ for details)
+2024-10-11 12:56:02,378 WARNING:Server sent a very new message with ID 7424454817372995585, ignoring (see FAQ for details)
+2024-10-11 12:56:10,061 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 12:56:10,061 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 12:56:10,061 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 12:56:10,061 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 12:56:40,081 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 12:56:40,184 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 12:56:40,410 WARNING:Server sent a very new message with ID 7424454980741104645, ignoring (see FAQ for details)
+2024-10-11 12:56:40,416 WARNING:Server sent a very new message with ID 7424454980769613825, ignoring (see FAQ for details)
+2024-10-11 13:52:11,344 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 13:52:11,344 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 13:52:11,344 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 13:52:11,344 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 14:56:21,237 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 14:56:21,340 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 14:56:21,557 WARNING:Server sent a very new message with ID 7424485824352052229, ignoring (see FAQ for details)
+2024-10-11 14:56:21,567 WARNING:Server sent a very new message with ID 7424485824375403521, ignoring (see FAQ for details)
+2024-10-11 14:56:48,108 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 14:56:48,109 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 14:56:48,109 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 14:56:48,109 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 14:56:52,647 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 14:56:52,749 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 14:56:52,967 WARNING:Server sent a very new message with ID 7424485959255883781, ignoring (see FAQ for details)
+2024-10-11 14:56:52,974 WARNING:Server sent a very new message with ID 7424485959276624897, ignoring (see FAQ for details)
+2024-10-11 14:58:01,663 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 14:58:01,663 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 14:58:01,663 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 14:58:01,663 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
