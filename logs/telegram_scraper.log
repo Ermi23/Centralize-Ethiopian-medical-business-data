@@ -1,0 +1,354 @@
+2024-10-10 14:30:58,629 INFO:Connecting to 149.154.167.51:443/TcpFull...
+2024-10-10 14:31:01,090 INFO:Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-10 14:33:24,033 INFO:Connecting to 149.154.167.51:443/TcpFull...
+2024-10-10 14:33:24,141 INFO:Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-10 14:33:26,604 INFO:Phone migrated to 4
+2024-10-10 14:33:26,715 INFO:Reconnecting to new data center 4
+2024-10-10 14:33:26,843 INFO:Disconnecting from 149.154.167.51:443/TcpFull...
+2024-10-10 14:33:26,843 INFO:Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-10-10 14:33:26,844 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 14:33:28,429 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 14:34:05,943 INFO:Successfully connected to Telegram for channel: https://t.me/DoctorsET
+2024-10-10 14:34:06,599 INFO:Successfully scraped and saved data for channel: https://t.me/DoctorsET
+2024-10-10 14:34:06,708 INFO:Successfully connected to Telegram for channel: https://t.me/lobelia4cosmetics
+2024-10-10 14:34:07,118 INFO:Successfully scraped and saved data for channel: https://t.me/lobelia4cosmetics
+2024-10-10 14:34:07,229 INFO:Successfully connected to Telegram for channel: https://t.me/yetenaweg
+2024-10-10 14:34:07,735 INFO:Successfully scraped and saved data for channel: https://t.me/yetenaweg
+2024-10-10 14:34:07,846 INFO:Successfully connected to Telegram for channel: https://t.me/EAHCI
+2024-10-10 14:34:08,487 INFO:Successfully scraped and saved data for channel: https://t.me/EAHCI
+2024-10-10 14:34:08,618 INFO:Successfully connected to Telegram for channel: https://et.tgstat.com/medicine
+2024-10-10 14:34:08,619 ERROR:Error scraping channel https://et.tgstat.com/medicine: Cannot find any entity corresponding to "https://et.tgstat.com/medicine"
+2024-10-10 14:34:08,754 INFO:Successfully connected to Telegram for channel: https://t.me/Chemed
+2024-10-10 14:34:09,012 INFO:Successfully scraped and saved data for channel: https://t.me/Chemed
+2024-10-10 14:34:09,131 INFO:Successfully connected to Telegram for channel: https://t.me/lobelia4cosmetics
+2024-10-10 14:34:09,438 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:10,389 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:12,564 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:13,492 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:14,309 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:14,896 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:15,184 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:16,253 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:17,222 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:18,530 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:19,359 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:20,133 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:20,703 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:21,773 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:22,566 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:23,973 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:24,748 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:25,151 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:25,524 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:25,744 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:25,943 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:27,106 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:27,379 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:27,858 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:28,578 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:28,764 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:30,301 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:30,471 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:30,761 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:31,467 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:32,146 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:32,476 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:33,767 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:34,699 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:35,270 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:35,923 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:36,861 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:37,285 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:38,958 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:39,877 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:41,414 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:44,104 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:45,295 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:46,152 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:46,727 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:46,927 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:47,689 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:48,154 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:49,554 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:50,638 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:50,856 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:51,523 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:52,626 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:53,403 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:54,157 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:54,649 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:56,006 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:56,489 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:57,704 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:58,459 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:58,862 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:59,391 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:59,730 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:34:59,959 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:00,126 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:00,321 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:01,150 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:01,533 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:01,907 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:02,793 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:03,216 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:03,895 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:04,674 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:05,311 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:05,976 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:06,248 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:06,784 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:07,180 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:07,367 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:07,560 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:07,790 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:08,050 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:08,538 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:10,296 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:11,018 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:12,342 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:13,013 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:13,333 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:13,940 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:14,708 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:14,910 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:15,630 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:15,866 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:19,194 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:20,591 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:22,840 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:23,744 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:24,030 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:25,153 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:25,830 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:35:26,826 INFO:Successfully scraped and saved data for channel: https://t.me/lobelia4cosmetics
+2024-10-10 14:35:26,828 INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-10 14:35:26,828 INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-10 14:38:14,172 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-10 14:38:14,276 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-10 14:38:14,990 INFO:Successfully connected to Telegram for channel: https://t.me/DoctorsET
+2024-10-10 14:38:15,535 INFO:Successfully scraped and saved data for channel: https://t.me/DoctorsET
+2024-10-10 14:38:15,666 INFO:Successfully connected to Telegram for channel: https://t.me/lobelia4cosmetics
+2024-10-10 14:38:16,470 INFO:Successfully scraped and saved data for channel: https://t.me/lobelia4cosmetics
+2024-10-10 14:38:16,593 INFO:Successfully connected to Telegram for channel: https://t.me/yetenaweg
+2024-10-10 14:38:16,913 INFO:Successfully scraped and saved data for channel: https://t.me/yetenaweg
+2024-10-10 14:38:17,021 INFO:Successfully connected to Telegram for channel: https://t.me/EAHCI
+2024-10-10 14:38:17,617 INFO:Successfully scraped and saved data for channel: https://t.me/EAHCI
+2024-10-10 14:38:17,732 INFO:Successfully connected to Telegram for channel: https://et.tgstat.com/medicine
+2024-10-10 14:38:17,733 ERROR:Error scraping channel https://et.tgstat.com/medicine: Cannot find any entity corresponding to "https://et.tgstat.com/medicine"
+2024-10-10 14:38:17,849 INFO:Successfully connected to Telegram for channel: https://t.me/Chemed
+2024-10-10 14:38:17,972 INFO:Successfully scraped and saved data for channel: https://t.me/Chemed
+2024-10-10 14:38:18,080 INFO:Successfully connected to Telegram for channel: https://t.me/lobelia4cosmetics
+2024-10-10 14:38:18,468 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:20,149 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:23,284 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:24,341 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:25,427 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:26,336 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:26,890 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:28,285 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:30,080 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:31,655 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:33,190 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:34,203 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:35,536 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:37,659 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:38,675 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:40,149 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:41,259 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:41,869 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:42,398 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:42,747 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:43,043 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:44,579 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:44,761 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:45,353 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:46,275 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:46,574 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:47,976 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:48,158 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:48,505 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:49,275 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:50,105 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:50,435 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:51,960 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:53,147 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:53,599 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:54,528 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:55,050 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:55,524 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:57,127 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:57,917 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:38:59,725 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:03,570 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:05,046 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:06,261 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:07,000 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:07,326 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:08,590 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:09,029 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:10,886 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:12,600 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:12,928 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:13,948 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:15,402 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:16,759 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:17,770 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:18,421 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:19,549 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:20,147 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:21,705 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:22,995 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:23,827 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:24,768 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:25,200 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:25,647 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:25,786 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:26,009 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:27,340 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:28,094 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:28,837 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:31,760 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:32,607 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:33,743 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:35,130 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:36,888 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:37,734 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:38,025 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:39,066 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:39,998 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:40,282 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:40,566 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:40,865 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:41,036 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:41,709 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:43,672 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:44,473 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:46,150 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:47,047 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:47,452 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:48,436 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:49,520 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:49,880 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:51,097 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:51,363 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:56,489 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:39:59,064 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:40:01,356 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:40:02,786 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:40:03,244 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:40:05,134 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:40:06,161 INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-10 14:40:06,889 INFO:Successfully scraped and saved data for channel: https://t.me/lobelia4cosmetics
+2024-10-10 14:40:06,891 INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-10 14:40:06,893 INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 09:15:11,127 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 09:15:11,267 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 09:15:11,538 WARNING:Server sent a very new message with ID 7424397903978187785, ignoring (see FAQ for details)
+2024-10-11 09:15:11,543 WARNING:Server sent a very new message with ID 7424397903996420097, ignoring (see FAQ for details)
+2024-10-11 10:22:23,486 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:22:23,487 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:22:23,487 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:22:23,487 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:22:32,068 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 10:22:32,176 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 10:22:32,409 WARNING:Server sent a very new message with ID 7424415259956669449, ignoring (see FAQ for details)
+2024-10-11 10:22:32,421 WARNING:Server sent a very new message with ID 7424415259999673345, ignoring (see FAQ for details)
+2024-10-11 10:23:28,972 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:23:28,972 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:23:28,972 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:23:28,973 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:23:40,856 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 10:23:40,990 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 10:23:41,250 WARNING:Server sent a very new message with ID 7424415555504478213, ignoring (see FAQ for details)
+2024-10-11 10:23:41,254 WARNING:Server sent a very new message with ID 7424415555528033281, ignoring (see FAQ for details)
+2024-10-11 10:33:01,640 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:33:01,640 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:33:01,641 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:33:01,641 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:33:10,416 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 10:33:10,522 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 10:33:10,742 WARNING:Server sent a very new message with ID 7424418001619479561, ignoring (see FAQ for details)
+2024-10-11 10:33:10,750 WARNING:Server sent a very new message with ID 7424418001647760385, ignoring (see FAQ for details)
+2024-10-11 10:52:11,019 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:52:11,019 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:52:11,019 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:52:11,019 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 10:52:29,789 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 10:52:29,896 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 10:52:30,142 WARNING:Server sent a very new message with ID 7424422981242784773, ignoring (see FAQ for details)
+2024-10-11 10:52:30,148 WARNING:Server sent a very new message with ID 7424422981264728065, ignoring (see FAQ for details)
+2024-10-11 11:07:21,363 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:07:21,364 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:07:21,364 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:07:21,364 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:10:20,012 INFO:Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 11:10:22,112 INFO:Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-11 11:13:03,170 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 11:13:03,272 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 11:13:03,496 WARNING:Server sent a very new message with ID 7424428278640765957, ignoring (see FAQ for details)
+2024-10-11 11:13:03,507 WARNING:Server sent a very new message with ID 7424428278667452417, ignoring (see FAQ for details)
+2024-10-11 11:14:50,237 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:14:50,237 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:14:50,237 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:14:50,237 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:14:52,883 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 11:14:52,985 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 11:14:53,207 WARNING:Server sent a very new message with ID 7424428749867429893, ignoring (see FAQ for details)
+2024-10-11 11:14:53,211 WARNING:Server sent a very new message with ID 7424428749900817409, ignoring (see FAQ for details)
+2024-10-11 11:16:12,241 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:16:12,242 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:16:12,242 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:16:12,242 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:16:17,711 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 11:16:17,813 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 11:16:18,029 WARNING:Server sent a very new message with ID 7424429114218458121, ignoring (see FAQ for details)
+2024-10-11 11:16:18,099 WARNING:Server sent a very new message with ID 7424429114496209921, ignoring (see FAQ for details)
+2024-10-11 11:17:50,756 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:17:50,757 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:17:50,757 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:17:50,757 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:18:09,104 INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 11:18:09,227 INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 11:18:09,460 WARNING:Server sent a very new message with ID 7424429592786111493, ignoring (see FAQ for details)
+2024-10-11 11:18:09,464 WARNING:Server sent a very new message with ID 7424429592808216577, ignoring (see FAQ for details)
+2024-10-11 11:28:09,637 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Connection._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:28:09,637 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\connection\connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:28:09,637 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<MTProtoSender._send_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2024-10-11 11:28:09,637 ERROR:Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._recv_loop() running at C:\Users\ermias.tadesse\10x\Centralize-Ethiopian-medical-business-data\venv\Lib\site-packages\telethon\network\mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
