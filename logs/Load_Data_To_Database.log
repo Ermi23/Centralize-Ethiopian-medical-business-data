@@ -4136,3 +4136,39 @@ For delivery option fees are from 70 birr - 200 birr
 2024-10-11 23:10:43,120 INFO:Data inserted channels successfully.
 2024-10-11 23:10:43,125 INFO:Bulk inserted senders
 2024-10-11 23:10:43,125 INFO:Data inserted senders successfully.
+2024-10-12 08:26:31,672 INFO:Read the cleaned data from Excel
+2024-10-12 08:26:31,675 INFO:Created a session using the correct engine from DBConnection
+2024-10-12 08:29:43,462 INFO:Successfully connected to The Postgrass database: Central_Medical_Warehouse
+2024-10-12 08:29:43,595 INFO:Tables created successfully.
+2024-10-12 08:29:43,678 INFO:Read the cleaned data from Excel
+2024-10-12 08:29:43,678 INFO:Created a session using the correct engine from DBConnection
+2024-10-12 08:29:43,686 INFO:Bulk inserted channels
+2024-10-12 08:29:43,687 INFO:Data inserted channels successfully.
+2024-10-14 22:21:11,870 INFO:Successfully connected to The Postgrass database: Central_Medical_Warehouse
+2024-10-14 22:21:12,231 INFO:Tables created successfully.
+2024-10-14 22:21:16,746 INFO:Read the cleaned data from Excel
+2024-10-14 22:21:16,749 INFO:Created a session using the correct engine from DBConnection
+2024-10-14 22:21:16,762 INFO:Bulk inserted channels
+2024-10-14 22:21:16,763 INFO:Data inserted channels successfully.
+2024-10-14 22:21:57,525 INFO:Successfully connected to The Postgrass database: Central_Medical_Warehouse
+2024-10-14 22:21:57,683 INFO:Tables created successfully.
+2024-10-14 22:22:55,165 INFO:Read the cleaned data from Excel
+2024-10-14 22:22:55,166 INFO:Created a session using the correct engine from DBConnection
+2024-10-14 22:24:41,515 INFO:Successfully connected to The Postgrass database: Central_Medical_Warehouse
+2024-10-14 22:24:41,655 INFO:Tables created successfully.
+2024-10-14 22:24:42,033 INFO:Read the cleaned data from Excel
+2024-10-14 22:24:42,033 INFO:Created a session using the correct engine from DBConnection
+2024-10-14 22:24:42,039 INFO:Bulk inserted channels
+2024-10-14 22:24:42,039 INFO:Data inserted channels successfully.
+2024-10-14 22:25:59,049 INFO:Successfully connected to The Postgrass database: Central_Medical_Warehouse
+2024-10-14 22:25:59,221 INFO:Tables created successfully.
+2024-10-14 22:26:56,734 INFO:Read the cleaned data from Excel
+2024-10-14 22:26:56,736 INFO:Created a session using the correct engine from DBConnection
+2024-10-14 22:26:56,747 INFO:Bulk inserted channels
+2024-10-14 22:26:56,747 INFO:Data inserted channels successfully.
+2024-10-14 22:26:56,755 INFO:Bulk inserted senders
+2024-10-14 22:26:56,755 INFO:Data inserted senders successfully.
+2024-10-14 22:26:57,209 INFO:Bulk inserted messages
+2024-10-14 22:26:57,245 INFO:Bulk inserted media
+2024-10-14 22:26:57,247 INFO:Data inserted successfully.
+2024-10-14 22:26:57,247 INFO:Session closed.
