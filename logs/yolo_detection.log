@@ -1,0 +1,2405 @@
+2024-10-15 15:59:52,760 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 15:59:53,035 - Error fetching media_id for 12284.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:53,036 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 15:59:53,257 - Error fetching media_id for 12285.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:53,261 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 15:59:53,549 - Error fetching media_id for 12286.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:53,549 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 15:59:53,849 - Error fetching media_id for 12287.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:53,849 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 15:59:54,055 - Error fetching media_id for 12288.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:54,055 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 15:59:54,251 - Error fetching media_id for 12289.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:54,251 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 15:59:54,466 - Error fetching media_id for 12290.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:54,466 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 15:59:54,741 - Error fetching media_id for 12291.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:54,741 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 15:59:54,977 - Error fetching media_id for 12292.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:54,977 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 15:59:55,189 - Error fetching media_id for 12293.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:55,189 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 15:59:55,374 - Error fetching media_id for 12294.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:55,374 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 15:59:55,581 - Error fetching media_id for 12295.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:55,581 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 15:59:55,758 - Error fetching media_id for 12296.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:55,758 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 15:59:55,936 - Error fetching media_id for 12297.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:55,936 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 15:59:56,134 - Error fetching media_id for 12298.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:56,134 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 15:59:56,401 - Error fetching media_id for 12299.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:56,401 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 15:59:56,607 - Error fetching media_id for 12300.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:56,607 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 15:59:56,806 - Error fetching media_id for 12301.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:56,806 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 15:59:57,014 - Error fetching media_id for 12302.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:57,014 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 15:59:57,226 - Error fetching media_id for 12303.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:57,227 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 15:59:57,428 - Error fetching media_id for 12304.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:57,429 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 15:59:57,603 - Error fetching media_id for 12305.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:57,603 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 15:59:57,796 - Error fetching media_id for 12306.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:57,796 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 15:59:58,037 - Error fetching media_id for 12307.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:58,037 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 15:59:58,290 - Error fetching media_id for 12308.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:58,290 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 15:59:58,584 - Error fetching media_id for 12309.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:58,584 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 15:59:58,863 - Error fetching media_id for 12310.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:58,863 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 15:59:59,228 - Error fetching media_id for 12311.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:59,228 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 15:59:59,538 - Error fetching media_id for 12312.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:59,539 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 15:59:59,853 - Error fetching media_id for 12313.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 15:59:59,853 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:00:00,113 - Error fetching media_id for 12314.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:00,114 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:00:00,527 - Error fetching media_id for 12315.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:00,527 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:00:00,971 - Error fetching media_id for 12316.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:00,973 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:00:01,214 - Error fetching media_id for 12317.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:01,214 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:00:01,490 - Error fetching media_id for 12318.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:01,491 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:00:01,759 - Error fetching media_id for 12319.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:01,759 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:00:02,034 - Error fetching media_id for 12320.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:02,035 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:00:02,259 - Error fetching media_id for 12321.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:02,260 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:00:02,547 - Error fetching media_id for 12322.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:02,547 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:00:02,861 - Error fetching media_id for 12323.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:02,861 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:00:03,082 - Error fetching media_id for 12324.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:03,082 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:00:03,352 - Error fetching media_id for 12325.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:03,352 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:00:03,627 - Error fetching media_id for 12326.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:03,627 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:00:03,881 - Error fetching media_id for 12327.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:03,882 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:00:04,191 - Error fetching media_id for 12328.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:04,191 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:00:04,473 - Error fetching media_id for 12329.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:04,474 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:00:04,740 - Error fetching media_id for 12330.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:04,740 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:00:05,020 - Error fetching media_id for 12331.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:05,020 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:00:05,312 - Error fetching media_id for 12332.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:05,312 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:00:05,588 - Error fetching media_id for 12333.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:05,588 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:00:05,835 - Error fetching media_id for 12334.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:05,835 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:00:06,134 - Error fetching media_id for 12335.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:06,134 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:00:06,406 - Error fetching media_id for 12336.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:06,406 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:00:06,722 - Error fetching media_id for 12338.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:06,722 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:00:06,998 - Error fetching media_id for 12339.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:06,999 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:00:07,235 - Error fetching media_id for 12340.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:07,236 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:00:07,477 - Error fetching media_id for 12341.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:07,477 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:00:07,704 - Error fetching media_id for 12342.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:07,704 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:00:07,999 - Error fetching media_id for 12343.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:08,000 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:00:08,298 - Error fetching media_id for 12344.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:08,298 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:00:08,754 - Error fetching media_id for 12345.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:08,754 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:00:09,248 - Error fetching media_id for 12346.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:09,248 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:00:09,586 - Error fetching media_id for 12347.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:09,587 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:00:09,854 - Error fetching media_id for 12348.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:09,854 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:00:10,115 - Error fetching media_id for 12349.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:10,115 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:00:10,348 - Error fetching media_id for 12350.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:10,349 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:00:10,529 - Error fetching media_id for 12351.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:10,531 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:00:10,790 - Error fetching media_id for 12352.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:10,790 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:00:11,076 - Error fetching media_id for 12354.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:11,076 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:00:11,324 - Error fetching media_id for 12355.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:11,325 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:00:11,631 - Error fetching media_id for 12356.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:11,631 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:00:11,921 - Error fetching media_id for 12357.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:11,921 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:00:12,149 - Error fetching media_id for 12358.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:12,149 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:00:12,370 - Error fetching media_id for 12359.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:12,370 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:00:12,655 - Error fetching media_id for 12360.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:12,655 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:00:12,919 - Error fetching media_id for 12361.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:12,919 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:00:13,158 - Error fetching media_id for 12362.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:13,158 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:00:13,356 - Error fetching media_id for 12363.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:13,356 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:00:13,588 - Error fetching media_id for 12364.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:13,588 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:00:13,909 - Error fetching media_id for 12365.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:13,910 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:00:14,171 - Error fetching media_id for 12366.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:14,171 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:00:14,415 - Error fetching media_id for 12367.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:14,416 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:00:14,700 - Error fetching media_id for 12368.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:14,700 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:00:15,005 - Error fetching media_id for 12369.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:15,006 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:00:15,347 - Error fetching media_id for 12370.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:15,347 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:00:15,656 - Error fetching media_id for 12371.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:15,657 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:00:16,035 - Error fetching media_id for 12372.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:16,035 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:00:16,406 - Error fetching media_id for 12373.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:16,407 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:00:16,815 - Error fetching media_id for 12374.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:16,815 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:00:17,150 - Error fetching media_id for 12375.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:17,151 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:00:17,505 - Error fetching media_id for 12376.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:17,505 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:00:17,861 - Error fetching media_id for 12377.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:17,861 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:00:18,216 - Error fetching media_id for 12378.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:18,217 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:00:18,674 - Error fetching media_id for 12379.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:18,674 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:00:19,319 - Error fetching media_id for 12380.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:19,319 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:00:19,671 - Error fetching media_id for 12381.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:19,672 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:00:19,926 - Error fetching media_id for 12382.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:19,926 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:00:20,261 - Error fetching media_id for 12383.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:20,261 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:00:20,706 - Error fetching media_id for 12384.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:20,706 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:00:21,382 - Error fetching media_id for 12385.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:00:21,382 - Object detection completed.
+2024-10-15 16:05:05,179 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 16:05:05,423 - Error fetching media_id for 12284.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:05,423 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 16:05:05,674 - Error fetching media_id for 12285.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:05,674 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 16:05:05,981 - Error fetching media_id for 12286.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:05,981 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 16:05:06,192 - Error fetching media_id for 12287.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:06,192 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 16:05:06,410 - Error fetching media_id for 12288.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:06,410 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 16:05:06,588 - Error fetching media_id for 12289.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:06,588 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 16:05:06,809 - Error fetching media_id for 12290.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:06,809 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 16:05:07,133 - Error fetching media_id for 12291.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:07,133 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 16:05:07,402 - Error fetching media_id for 12292.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:07,403 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 16:05:07,618 - Error fetching media_id for 12293.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:07,618 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 16:05:07,830 - Error fetching media_id for 12294.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:07,830 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 16:05:08,060 - Error fetching media_id for 12295.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:08,060 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 16:05:08,235 - Error fetching media_id for 12296.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:08,236 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 16:05:08,440 - Error fetching media_id for 12297.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:08,441 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 16:05:08,649 - Error fetching media_id for 12298.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:08,649 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 16:05:08,907 - Error fetching media_id for 12299.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:08,908 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 16:05:09,109 - Error fetching media_id for 12300.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:09,110 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 16:05:09,331 - Error fetching media_id for 12301.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:09,331 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 16:05:09,597 - Error fetching media_id for 12302.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:09,597 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 16:05:09,770 - Error fetching media_id for 12303.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:09,770 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 16:05:09,976 - Error fetching media_id for 12304.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:09,976 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 16:05:10,151 - Error fetching media_id for 12305.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:10,151 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 16:05:10,324 - Error fetching media_id for 12306.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:10,324 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 16:05:10,518 - Error fetching media_id for 12307.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:10,518 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 16:05:10,729 - Error fetching media_id for 12308.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:10,729 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 16:05:10,954 - Error fetching media_id for 12309.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:10,954 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 16:05:11,194 - Error fetching media_id for 12310.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:11,194 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 16:05:11,463 - Error fetching media_id for 12311.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:11,463 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 16:05:11,730 - Error fetching media_id for 12312.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:11,731 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 16:05:12,034 - Error fetching media_id for 12313.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:12,035 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:05:12,278 - Error fetching media_id for 12314.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:12,278 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:05:12,532 - Error fetching media_id for 12315.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:12,533 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:05:12,778 - Error fetching media_id for 12316.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:12,778 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:05:13,035 - Error fetching media_id for 12317.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:13,035 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:05:13,337 - Error fetching media_id for 12318.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:13,337 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:05:13,554 - Error fetching media_id for 12319.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:13,554 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:05:13,784 - Error fetching media_id for 12320.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:13,784 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:05:14,092 - Error fetching media_id for 12321.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:14,092 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:05:14,397 - Error fetching media_id for 12322.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:14,397 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:05:14,658 - Error fetching media_id for 12323.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:14,659 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:05:14,956 - Error fetching media_id for 12324.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:14,956 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:05:15,238 - Error fetching media_id for 12325.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:15,238 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:05:15,575 - Error fetching media_id for 12326.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:15,576 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:05:15,885 - Error fetching media_id for 12327.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:15,886 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:05:16,356 - Error fetching media_id for 12328.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:16,357 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:05:16,891 - Error fetching media_id for 12329.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:16,891 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:05:17,286 - Error fetching media_id for 12330.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:17,286 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:05:17,762 - Error fetching media_id for 12331.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:17,762 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:05:18,145 - Error fetching media_id for 12332.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:18,145 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:05:18,488 - Error fetching media_id for 12333.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:18,488 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:05:18,781 - Error fetching media_id for 12334.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:18,781 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:05:19,164 - Error fetching media_id for 12335.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:19,164 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:05:19,488 - Error fetching media_id for 12336.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:19,488 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:05:19,717 - Error fetching media_id for 12338.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:19,717 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:05:19,982 - Error fetching media_id for 12339.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:19,982 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:05:20,233 - Error fetching media_id for 12340.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:20,233 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:05:20,531 - Error fetching media_id for 12341.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:20,531 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:05:20,754 - Error fetching media_id for 12342.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:20,754 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:05:21,020 - Error fetching media_id for 12343.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:21,020 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:05:21,362 - Error fetching media_id for 12344.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:21,362 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:05:21,717 - Error fetching media_id for 12345.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:21,717 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:05:22,368 - Error fetching media_id for 12346.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:22,368 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:05:22,746 - Error fetching media_id for 12347.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:22,746 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:05:23,000 - Error fetching media_id for 12348.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:23,000 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:05:23,297 - Error fetching media_id for 12349.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:23,298 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:05:23,627 - Error fetching media_id for 12350.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:23,628 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:05:23,897 - Error fetching media_id for 12351.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:23,897 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:05:24,241 - Error fetching media_id for 12352.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:24,242 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:05:24,589 - Error fetching media_id for 12354.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:24,589 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:05:24,832 - Error fetching media_id for 12355.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:24,832 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:05:25,083 - Error fetching media_id for 12356.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:25,084 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:05:25,401 - Error fetching media_id for 12357.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:25,402 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:05:25,640 - Error fetching media_id for 12358.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:25,641 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:05:25,866 - Error fetching media_id for 12359.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:25,866 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:05:26,157 - Error fetching media_id for 12360.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:26,157 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:05:26,473 - Error fetching media_id for 12361.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:26,473 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:05:26,758 - Error fetching media_id for 12362.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:26,759 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:05:26,977 - Error fetching media_id for 12363.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:26,977 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:05:27,211 - Error fetching media_id for 12364.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:27,211 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:05:27,471 - Error fetching media_id for 12365.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:27,471 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:05:27,724 - Error fetching media_id for 12366.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:27,724 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:05:27,972 - Error fetching media_id for 12367.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:27,972 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:05:28,237 - Error fetching media_id for 12368.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:28,237 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:05:28,486 - Error fetching media_id for 12369.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:28,487 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:05:28,817 - Error fetching media_id for 12370.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:28,818 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:05:29,133 - Error fetching media_id for 12371.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:29,133 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:05:29,387 - Error fetching media_id for 12372.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:29,387 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:05:29,629 - Error fetching media_id for 12373.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:29,629 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:05:29,883 - Error fetching media_id for 12374.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:29,884 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:05:30,196 - Error fetching media_id for 12375.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:30,196 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:05:30,469 - Error fetching media_id for 12376.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:30,469 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:05:30,726 - Error fetching media_id for 12377.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:30,726 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:05:31,062 - Error fetching media_id for 12378.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:31,062 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:05:31,382 - Error fetching media_id for 12379.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:31,382 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:05:31,618 - Error fetching media_id for 12380.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:31,618 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:05:31,947 - Error fetching media_id for 12381.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:31,947 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:05:32,200 - Error fetching media_id for 12382.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:32,200 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:05:32,460 - Error fetching media_id for 12383.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:32,460 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:05:32,784 - Error fetching media_id for 12384.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:32,784 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:05:33,069 - Error fetching media_id for 12385.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:05:33,069 - Object detection completed.
+2024-10-15 16:08:09,201 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 16:08:09,464 - Error fetching media_id for 12284.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:09,465 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 16:08:09,708 - Error fetching media_id for 12285.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:09,708 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 16:08:09,950 - Error fetching media_id for 12286.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:09,950 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 16:08:10,182 - Error fetching media_id for 12287.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:10,183 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 16:08:10,437 - Error fetching media_id for 12288.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:10,437 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 16:08:10,620 - Error fetching media_id for 12289.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:10,620 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 16:08:10,830 - Error fetching media_id for 12290.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:10,830 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 16:08:11,074 - Error fetching media_id for 12291.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:11,074 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 16:08:11,255 - Error fetching media_id for 12292.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:11,255 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 16:08:11,444 - Error fetching media_id for 12293.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:11,444 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 16:08:11,631 - Error fetching media_id for 12294.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:11,631 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 16:08:11,828 - Error fetching media_id for 12295.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:11,828 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 16:08:12,000 - Error fetching media_id for 12296.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:12,000 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 16:08:12,181 - Error fetching media_id for 12297.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:12,181 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 16:08:12,367 - Error fetching media_id for 12298.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:12,367 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 16:08:12,685 - Error fetching media_id for 12299.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:12,685 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 16:08:12,889 - Error fetching media_id for 12300.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:12,889 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 16:08:13,104 - Error fetching media_id for 12301.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:13,104 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 16:08:13,298 - Error fetching media_id for 12302.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:13,298 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 16:08:13,489 - Error fetching media_id for 12303.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:13,489 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 16:08:13,671 - Error fetching media_id for 12304.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:13,671 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 16:08:13,844 - Error fetching media_id for 12305.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:13,844 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 16:08:14,036 - Error fetching media_id for 12306.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:14,036 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 16:08:14,234 - Error fetching media_id for 12307.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:14,234 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 16:08:14,473 - Error fetching media_id for 12308.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:14,473 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 16:08:14,737 - Error fetching media_id for 12309.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:14,737 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 16:08:15,047 - Error fetching media_id for 12310.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:15,048 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 16:08:15,312 - Error fetching media_id for 12311.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:15,312 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 16:08:15,608 - Error fetching media_id for 12312.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:15,608 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 16:08:15,889 - Error fetching media_id for 12313.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:15,889 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:08:16,124 - Error fetching media_id for 12314.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:16,124 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:08:16,404 - Error fetching media_id for 12315.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:16,404 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:08:16,653 - Error fetching media_id for 12316.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:16,653 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:08:16,881 - Error fetching media_id for 12317.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:16,881 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:08:17,207 - Error fetching media_id for 12318.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:17,208 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:08:17,485 - Error fetching media_id for 12319.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:17,486 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:08:17,716 - Error fetching media_id for 12320.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:17,717 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:08:17,917 - Error fetching media_id for 12321.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:17,918 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:08:18,208 - Error fetching media_id for 12322.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:18,208 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:08:18,486 - Error fetching media_id for 12323.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:18,487 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:08:18,734 - Error fetching media_id for 12324.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:18,735 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:08:19,002 - Error fetching media_id for 12325.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:19,002 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:08:19,310 - Error fetching media_id for 12326.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:19,311 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:08:19,603 - Error fetching media_id for 12327.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:19,603 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:08:19,956 - Error fetching media_id for 12328.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:19,956 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:08:20,213 - Error fetching media_id for 12329.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:20,213 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:08:20,560 - Error fetching media_id for 12330.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:20,560 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:08:20,833 - Error fetching media_id for 12331.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:20,833 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:08:21,130 - Error fetching media_id for 12332.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:21,130 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:08:21,451 - Error fetching media_id for 12333.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:21,451 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:08:21,693 - Error fetching media_id for 12334.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:21,693 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:08:22,027 - Error fetching media_id for 12335.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:22,029 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:08:22,565 - Error fetching media_id for 12336.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:22,565 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:08:22,881 - Error fetching media_id for 12338.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:22,881 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:08:23,148 - Error fetching media_id for 12339.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:23,149 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:08:23,449 - Error fetching media_id for 12340.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:23,449 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:08:23,721 - Error fetching media_id for 12341.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:23,721 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:08:23,931 - Error fetching media_id for 12342.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:23,931 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:08:24,253 - Error fetching media_id for 12343.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:24,253 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:08:24,729 - Error fetching media_id for 12344.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:24,729 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:08:25,220 - Error fetching media_id for 12345.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:25,220 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:08:26,369 - Error fetching media_id for 12346.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:26,369 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:08:27,083 - Error fetching media_id for 12347.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:27,083 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:08:27,422 - Error fetching media_id for 12348.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:27,423 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:08:27,757 - Error fetching media_id for 12349.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:27,757 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:08:28,120 - Error fetching media_id for 12350.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:28,120 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:08:28,306 - Error fetching media_id for 12351.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:28,307 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:08:28,560 - Error fetching media_id for 12352.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:28,561 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:08:28,815 - Error fetching media_id for 12354.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:28,815 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:08:29,034 - Error fetching media_id for 12355.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:29,034 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:08:29,423 - Error fetching media_id for 12356.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:29,423 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:08:29,710 - Error fetching media_id for 12357.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:29,710 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:08:29,934 - Error fetching media_id for 12358.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:29,934 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:08:30,165 - Error fetching media_id for 12359.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:30,165 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:08:30,400 - Error fetching media_id for 12360.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:30,401 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:08:30,637 - Error fetching media_id for 12361.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:30,637 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:08:30,870 - Error fetching media_id for 12362.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:30,871 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:08:31,063 - Error fetching media_id for 12363.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:31,063 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:08:31,275 - Error fetching media_id for 12364.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:31,275 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:08:31,464 - Error fetching media_id for 12365.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:31,464 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:08:31,827 - Error fetching media_id for 12366.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:31,827 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:08:32,124 - Error fetching media_id for 12367.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:32,124 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:08:32,374 - Error fetching media_id for 12368.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:32,374 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:08:32,597 - Error fetching media_id for 12369.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:32,597 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:08:32,848 - Error fetching media_id for 12370.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:32,848 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:08:33,116 - Error fetching media_id for 12371.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:33,116 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:08:33,381 - Error fetching media_id for 12372.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:33,382 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:08:33,714 - Error fetching media_id for 12373.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:33,715 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:08:33,941 - Error fetching media_id for 12374.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:33,941 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:08:34,205 - Error fetching media_id for 12375.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:34,205 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:08:34,515 - Error fetching media_id for 12376.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:34,515 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:08:34,778 - Error fetching media_id for 12377.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:34,778 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:08:35,005 - Error fetching media_id for 12378.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:35,005 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:08:35,231 - Error fetching media_id for 12379.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:35,231 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:08:35,431 - Error fetching media_id for 12380.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:35,431 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:08:35,675 - Error fetching media_id for 12381.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:35,675 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:08:35,905 - Error fetching media_id for 12382.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:35,905 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:08:36,163 - Error fetching media_id for 12383.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:36,163 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:08:36,466 - Error fetching media_id for 12384.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:36,467 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:08:36,743 - Error fetching media_id for 12385.jpg: (psycopg2.OperationalError) could not translate host name "123@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-10-15 16:08:36,743 - Object detection completed.
+2024-10-15 16:10:58,628 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 16:10:58,931 - No media_id found for 12284.jpg
+2024-10-15 16:10:58,931 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 16:10:59,176 - No media_id found for 12285.jpg
+2024-10-15 16:10:59,176 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 16:10:59,435 - No media_id found for 12286.jpg
+2024-10-15 16:10:59,436 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 16:10:59,678 - No media_id found for 12287.jpg
+2024-10-15 16:10:59,678 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 16:10:59,901 - No media_id found for 12288.jpg
+2024-10-15 16:10:59,901 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 16:11:00,292 - No media_id found for 12289.jpg
+2024-10-15 16:11:00,293 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 16:11:00,562 - No media_id found for 12290.jpg
+2024-10-15 16:11:00,562 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 16:11:00,816 - No media_id found for 12291.jpg
+2024-10-15 16:11:00,817 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 16:11:01,003 - No media_id found for 12292.jpg
+2024-10-15 16:11:01,004 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 16:11:01,277 - No media_id found for 12293.jpg
+2024-10-15 16:11:01,277 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 16:11:01,534 - No media_id found for 12294.jpg
+2024-10-15 16:11:01,535 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 16:11:01,801 - No media_id found for 12295.jpg
+2024-10-15 16:11:01,801 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 16:11:01,991 - No media_id found for 12296.jpg
+2024-10-15 16:11:01,991 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 16:11:02,262 - No media_id found for 12297.jpg
+2024-10-15 16:11:02,263 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 16:11:02,542 - No media_id found for 12298.jpg
+2024-10-15 16:11:02,543 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 16:11:02,863 - No media_id found for 12299.jpg
+2024-10-15 16:11:02,863 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 16:11:03,076 - No media_id found for 12300.jpg
+2024-10-15 16:11:03,076 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 16:11:03,558 - No media_id found for 12301.jpg
+2024-10-15 16:11:03,558 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 16:11:03,858 - No media_id found for 12302.jpg
+2024-10-15 16:11:03,858 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 16:11:04,158 - No media_id found for 12303.jpg
+2024-10-15 16:11:04,159 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 16:11:04,610 - No media_id found for 12304.jpg
+2024-10-15 16:11:04,611 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 16:11:04,984 - No media_id found for 12305.jpg
+2024-10-15 16:11:04,984 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 16:11:05,306 - No media_id found for 12306.jpg
+2024-10-15 16:11:05,307 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 16:11:05,535 - No media_id found for 12307.jpg
+2024-10-15 16:11:05,536 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 16:11:05,761 - No media_id found for 12308.jpg
+2024-10-15 16:11:05,761 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 16:11:05,987 - No media_id found for 12309.jpg
+2024-10-15 16:11:05,987 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 16:11:06,267 - No media_id found for 12310.jpg
+2024-10-15 16:11:06,268 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 16:11:06,546 - No media_id found for 12311.jpg
+2024-10-15 16:11:06,546 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 16:11:06,826 - No media_id found for 12312.jpg
+2024-10-15 16:11:06,826 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 16:11:07,115 - No media_id found for 12313.jpg
+2024-10-15 16:11:07,115 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:11:07,410 - No media_id found for 12314.jpg
+2024-10-15 16:11:07,411 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:11:07,718 - No media_id found for 12315.jpg
+2024-10-15 16:11:07,719 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:11:07,960 - No media_id found for 12316.jpg
+2024-10-15 16:11:07,960 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:11:08,273 - No media_id found for 12317.jpg
+2024-10-15 16:11:08,274 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:11:08,523 - No media_id found for 12318.jpg
+2024-10-15 16:11:08,524 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:11:08,730 - No media_id found for 12319.jpg
+2024-10-15 16:11:08,731 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:11:08,946 - No media_id found for 12320.jpg
+2024-10-15 16:11:08,947 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:11:09,121 - No media_id found for 12321.jpg
+2024-10-15 16:11:09,121 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:11:09,314 - No media_id found for 12322.jpg
+2024-10-15 16:11:09,314 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:11:09,616 - No media_id found for 12323.jpg
+2024-10-15 16:11:09,616 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:11:09,880 - No media_id found for 12324.jpg
+2024-10-15 16:11:09,882 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:11:10,142 - No media_id found for 12325.jpg
+2024-10-15 16:11:10,142 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:11:10,384 - No media_id found for 12326.jpg
+2024-10-15 16:11:10,384 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:11:10,598 - No media_id found for 12327.jpg
+2024-10-15 16:11:10,598 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:11:10,846 - No media_id found for 12328.jpg
+2024-10-15 16:11:10,847 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:11:11,086 - No media_id found for 12329.jpg
+2024-10-15 16:11:11,086 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:11:11,357 - No media_id found for 12330.jpg
+2024-10-15 16:11:11,358 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:11:11,610 - No media_id found for 12331.jpg
+2024-10-15 16:11:11,610 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:11:11,855 - No media_id found for 12332.jpg
+2024-10-15 16:11:11,856 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:11:12,163 - No media_id found for 12333.jpg
+2024-10-15 16:11:12,163 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:11:12,393 - No media_id found for 12334.jpg
+2024-10-15 16:11:12,393 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:11:12,622 - No media_id found for 12335.jpg
+2024-10-15 16:11:12,624 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:11:13,019 - No media_id found for 12336.jpg
+2024-10-15 16:11:13,020 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:11:13,266 - No media_id found for 12338.jpg
+2024-10-15 16:11:13,267 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:11:13,503 - No media_id found for 12339.jpg
+2024-10-15 16:11:13,505 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:11:13,766 - No media_id found for 12340.jpg
+2024-10-15 16:11:13,767 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:11:14,055 - No media_id found for 12341.jpg
+2024-10-15 16:11:14,056 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:11:14,366 - No media_id found for 12342.jpg
+2024-10-15 16:11:14,366 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:11:14,846 - No media_id found for 12343.jpg
+2024-10-15 16:11:14,847 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:11:15,328 - No media_id found for 12344.jpg
+2024-10-15 16:11:15,329 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:11:15,575 - No media_id found for 12345.jpg
+2024-10-15 16:11:15,575 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:11:15,815 - No media_id found for 12346.jpg
+2024-10-15 16:11:15,816 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:11:16,087 - No media_id found for 12347.jpg
+2024-10-15 16:11:16,088 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:11:16,313 - No media_id found for 12348.jpg
+2024-10-15 16:11:16,313 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:11:16,570 - No media_id found for 12349.jpg
+2024-10-15 16:11:16,570 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:11:16,884 - No media_id found for 12350.jpg
+2024-10-15 16:11:16,884 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:11:17,146 - No media_id found for 12351.jpg
+2024-10-15 16:11:17,147 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:11:17,741 - No media_id found for 12352.jpg
+2024-10-15 16:11:17,741 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:11:18,134 - No media_id found for 12354.jpg
+2024-10-15 16:11:18,134 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:11:18,386 - No media_id found for 12355.jpg
+2024-10-15 16:11:18,387 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:11:18,652 - No media_id found for 12356.jpg
+2024-10-15 16:11:18,653 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:11:18,966 - No media_id found for 12357.jpg
+2024-10-15 16:11:18,966 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:11:19,278 - No media_id found for 12358.jpg
+2024-10-15 16:11:19,279 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:11:19,650 - No media_id found for 12359.jpg
+2024-10-15 16:11:19,650 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:11:20,084 - No media_id found for 12360.jpg
+2024-10-15 16:11:20,084 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:11:20,400 - No media_id found for 12361.jpg
+2024-10-15 16:11:20,400 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:11:20,672 - No media_id found for 12362.jpg
+2024-10-15 16:11:20,673 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:11:20,946 - No media_id found for 12363.jpg
+2024-10-15 16:11:20,946 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:11:21,331 - No media_id found for 12364.jpg
+2024-10-15 16:11:21,332 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:11:22,091 - No media_id found for 12365.jpg
+2024-10-15 16:11:22,092 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:11:22,402 - No media_id found for 12366.jpg
+2024-10-15 16:11:22,403 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:11:22,698 - No media_id found for 12367.jpg
+2024-10-15 16:11:22,698 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:11:23,135 - No media_id found for 12368.jpg
+2024-10-15 16:11:23,136 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:11:23,510 - No media_id found for 12369.jpg
+2024-10-15 16:11:23,511 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:11:23,859 - No media_id found for 12370.jpg
+2024-10-15 16:11:23,859 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:11:24,487 - No media_id found for 12371.jpg
+2024-10-15 16:11:24,488 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:11:24,964 - No media_id found for 12372.jpg
+2024-10-15 16:11:24,965 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:11:25,272 - No media_id found for 12373.jpg
+2024-10-15 16:11:25,273 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:11:25,517 - No media_id found for 12374.jpg
+2024-10-15 16:11:25,517 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:11:25,767 - No media_id found for 12375.jpg
+2024-10-15 16:11:25,768 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:11:26,051 - No media_id found for 12376.jpg
+2024-10-15 16:11:26,052 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:11:26,439 - No media_id found for 12377.jpg
+2024-10-15 16:11:26,440 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:11:26,689 - No media_id found for 12378.jpg
+2024-10-15 16:11:26,689 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:11:27,007 - No media_id found for 12379.jpg
+2024-10-15 16:11:27,009 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:11:27,405 - No media_id found for 12380.jpg
+2024-10-15 16:11:27,405 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:11:27,792 - No media_id found for 12381.jpg
+2024-10-15 16:11:27,793 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:11:28,238 - No media_id found for 12382.jpg
+2024-10-15 16:11:28,238 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:11:28,558 - No media_id found for 12383.jpg
+2024-10-15 16:11:28,559 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:11:28,881 - No media_id found for 12384.jpg
+2024-10-15 16:11:28,882 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:11:29,098 - No media_id found for 12385.jpg
+2024-10-15 16:11:29,099 - Object detection completed.
+2024-10-15 16:18:57,055 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 16:18:57,390 - No media_id found for raw/media\12284.jpg
+2024-10-15 16:18:57,391 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 16:18:57,615 - No media_id found for raw/media\12285.jpg
+2024-10-15 16:18:57,615 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 16:18:57,833 - No media_id found for raw/media\12286.jpg
+2024-10-15 16:18:57,833 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 16:18:58,036 - No media_id found for raw/media\12287.jpg
+2024-10-15 16:18:58,036 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 16:18:58,255 - No media_id found for raw/media\12288.jpg
+2024-10-15 16:18:58,256 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 16:18:58,453 - No media_id found for raw/media\12289.jpg
+2024-10-15 16:18:58,454 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 16:18:58,668 - No media_id found for raw/media\12290.jpg
+2024-10-15 16:18:58,669 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 16:18:58,943 - No media_id found for raw/media\12291.jpg
+2024-10-15 16:18:58,943 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 16:18:59,203 - No media_id found for raw/media\12292.jpg
+2024-10-15 16:18:59,204 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 16:18:59,396 - No media_id found for raw/media\12293.jpg
+2024-10-15 16:18:59,396 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 16:18:59,578 - No media_id found for raw/media\12294.jpg
+2024-10-15 16:18:59,578 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 16:18:59,771 - No media_id found for raw/media\12295.jpg
+2024-10-15 16:18:59,772 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 16:18:59,935 - No media_id found for raw/media\12296.jpg
+2024-10-15 16:18:59,935 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 16:19:00,127 - No media_id found for raw/media\12297.jpg
+2024-10-15 16:19:00,127 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 16:19:00,313 - No media_id found for raw/media\12298.jpg
+2024-10-15 16:19:00,313 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 16:19:00,559 - No media_id found for raw/media\12299.jpg
+2024-10-15 16:19:00,559 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 16:19:00,766 - No media_id found for raw/media\12300.jpg
+2024-10-15 16:19:00,766 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 16:19:01,028 - No media_id found for raw/media\12301.jpg
+2024-10-15 16:19:01,028 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 16:19:01,249 - No media_id found for raw/media\12302.jpg
+2024-10-15 16:19:01,249 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 16:19:01,428 - No media_id found for raw/media\12303.jpg
+2024-10-15 16:19:01,429 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 16:19:01,599 - No media_id found for raw/media\12304.jpg
+2024-10-15 16:19:01,600 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 16:19:01,782 - No media_id found for raw/media\12305.jpg
+2024-10-15 16:19:01,783 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 16:19:02,018 - No media_id found for raw/media\12306.jpg
+2024-10-15 16:19:02,018 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 16:19:02,351 - No media_id found for raw/media\12307.jpg
+2024-10-15 16:19:02,351 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 16:19:02,582 - No media_id found for raw/media\12308.jpg
+2024-10-15 16:19:02,582 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 16:19:02,756 - No media_id found for raw/media\12309.jpg
+2024-10-15 16:19:02,757 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 16:19:03,081 - No media_id found for raw/media\12310.jpg
+2024-10-15 16:19:03,081 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 16:19:03,458 - No media_id found for raw/media\12311.jpg
+2024-10-15 16:19:03,459 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 16:19:03,802 - No media_id found for raw/media\12312.jpg
+2024-10-15 16:19:03,802 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 16:19:04,109 - No media_id found for raw/media\12313.jpg
+2024-10-15 16:19:04,110 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:19:04,438 - No media_id found for raw/media\12314.jpg
+2024-10-15 16:19:04,439 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:19:04,991 - No media_id found for raw/media\12315.jpg
+2024-10-15 16:19:04,992 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:19:05,327 - No media_id found for raw/media\12316.jpg
+2024-10-15 16:19:05,327 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:19:05,801 - No media_id found for raw/media\12317.jpg
+2024-10-15 16:19:05,802 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:19:06,261 - No media_id found for raw/media\12318.jpg
+2024-10-15 16:19:06,261 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:19:06,533 - No media_id found for raw/media\12319.jpg
+2024-10-15 16:19:06,533 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:19:06,766 - No media_id found for raw/media\12320.jpg
+2024-10-15 16:19:06,766 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:19:06,955 - No media_id found for raw/media\12321.jpg
+2024-10-15 16:19:06,955 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:19:07,162 - No media_id found for raw/media\12322.jpg
+2024-10-15 16:19:07,162 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:19:07,410 - No media_id found for raw/media\12323.jpg
+2024-10-15 16:19:07,410 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:19:07,657 - No media_id found for raw/media\12324.jpg
+2024-10-15 16:19:07,657 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:19:07,948 - No media_id found for raw/media\12325.jpg
+2024-10-15 16:19:07,948 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:19:08,253 - No media_id found for raw/media\12326.jpg
+2024-10-15 16:19:08,254 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:19:08,579 - No media_id found for raw/media\12327.jpg
+2024-10-15 16:19:08,580 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:19:08,973 - No media_id found for raw/media\12328.jpg
+2024-10-15 16:19:08,973 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:19:09,243 - No media_id found for raw/media\12329.jpg
+2024-10-15 16:19:09,243 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:19:09,504 - No media_id found for raw/media\12330.jpg
+2024-10-15 16:19:09,505 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:19:09,746 - No media_id found for raw/media\12331.jpg
+2024-10-15 16:19:09,746 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:19:09,982 - No media_id found for raw/media\12332.jpg
+2024-10-15 16:19:09,982 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:19:10,240 - No media_id found for raw/media\12333.jpg
+2024-10-15 16:19:10,240 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:19:10,489 - No media_id found for raw/media\12334.jpg
+2024-10-15 16:19:10,489 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:19:10,740 - No media_id found for raw/media\12335.jpg
+2024-10-15 16:19:10,741 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:19:11,008 - No media_id found for raw/media\12336.jpg
+2024-10-15 16:19:11,009 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:19:11,264 - No media_id found for raw/media\12338.jpg
+2024-10-15 16:19:11,264 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:19:11,503 - No media_id found for raw/media\12339.jpg
+2024-10-15 16:19:11,504 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:19:11,751 - No media_id found for raw/media\12340.jpg
+2024-10-15 16:19:11,751 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:19:12,036 - No media_id found for raw/media\12341.jpg
+2024-10-15 16:19:12,037 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:19:12,331 - No media_id found for raw/media\12342.jpg
+2024-10-15 16:19:12,332 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:19:12,786 - No media_id found for raw/media\12343.jpg
+2024-10-15 16:19:12,787 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:19:14,361 - No media_id found for raw/media\12344.jpg
+2024-10-15 16:19:14,362 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:19:14,861 - No media_id found for raw/media\12345.jpg
+2024-10-15 16:19:14,861 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:19:15,291 - No media_id found for raw/media\12346.jpg
+2024-10-15 16:19:15,291 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:19:15,647 - No media_id found for raw/media\12347.jpg
+2024-10-15 16:19:15,647 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:19:15,927 - No media_id found for raw/media\12348.jpg
+2024-10-15 16:19:15,927 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:19:16,260 - No media_id found for raw/media\12349.jpg
+2024-10-15 16:19:16,261 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:19:16,568 - No media_id found for raw/media\12350.jpg
+2024-10-15 16:19:16,569 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:19:16,779 - No media_id found for raw/media\12351.jpg
+2024-10-15 16:19:16,780 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:19:17,151 - No media_id found for raw/media\12352.jpg
+2024-10-15 16:19:17,152 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:19:17,524 - No media_id found for raw/media\12354.jpg
+2024-10-15 16:19:17,524 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:19:17,862 - No media_id found for raw/media\12355.jpg
+2024-10-15 16:19:17,862 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:19:18,118 - No media_id found for raw/media\12356.jpg
+2024-10-15 16:19:18,119 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:19:18,413 - No media_id found for raw/media\12357.jpg
+2024-10-15 16:19:18,413 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:19:18,715 - No media_id found for raw/media\12358.jpg
+2024-10-15 16:19:18,715 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:19:18,996 - No media_id found for raw/media\12359.jpg
+2024-10-15 16:19:18,996 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:19:19,444 - No media_id found for raw/media\12360.jpg
+2024-10-15 16:19:19,445 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:19:19,859 - No media_id found for raw/media\12361.jpg
+2024-10-15 16:19:19,860 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:19:20,156 - No media_id found for raw/media\12362.jpg
+2024-10-15 16:19:20,156 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:19:20,400 - No media_id found for raw/media\12363.jpg
+2024-10-15 16:19:20,400 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:19:20,717 - No media_id found for raw/media\12364.jpg
+2024-10-15 16:19:20,717 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:19:20,984 - No media_id found for raw/media\12365.jpg
+2024-10-15 16:19:20,985 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:19:21,313 - No media_id found for raw/media\12366.jpg
+2024-10-15 16:19:21,314 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:19:21,572 - No media_id found for raw/media\12367.jpg
+2024-10-15 16:19:21,573 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:19:21,815 - No media_id found for raw/media\12368.jpg
+2024-10-15 16:19:21,815 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:19:22,046 - No media_id found for raw/media\12369.jpg
+2024-10-15 16:19:22,047 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:19:22,379 - No media_id found for raw/media\12370.jpg
+2024-10-15 16:19:22,379 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:19:22,730 - No media_id found for raw/media\12371.jpg
+2024-10-15 16:19:22,731 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:19:23,109 - No media_id found for raw/media\12372.jpg
+2024-10-15 16:19:23,110 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:19:23,425 - No media_id found for raw/media\12373.jpg
+2024-10-15 16:19:23,426 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:19:23,684 - No media_id found for raw/media\12374.jpg
+2024-10-15 16:19:23,686 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:19:23,943 - No media_id found for raw/media\12375.jpg
+2024-10-15 16:19:23,943 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:19:24,241 - No media_id found for raw/media\12376.jpg
+2024-10-15 16:19:24,242 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:19:24,746 - No media_id found for raw/media\12377.jpg
+2024-10-15 16:19:24,747 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:19:25,156 - No media_id found for raw/media\12378.jpg
+2024-10-15 16:19:25,157 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:19:25,885 - No media_id found for raw/media\12379.jpg
+2024-10-15 16:19:25,886 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:19:26,364 - No media_id found for raw/media\12380.jpg
+2024-10-15 16:19:26,365 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:19:26,889 - No media_id found for raw/media\12381.jpg
+2024-10-15 16:19:26,890 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:19:27,189 - No media_id found for raw/media\12382.jpg
+2024-10-15 16:19:27,189 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:19:27,642 - No media_id found for raw/media\12383.jpg
+2024-10-15 16:19:27,643 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:19:28,098 - No media_id found for raw/media\12384.jpg
+2024-10-15 16:19:28,098 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:19:28,405 - No media_id found for raw/media\12385.jpg
+2024-10-15 16:19:28,406 - Object detection completed.
+2024-10-15 16:22:05,855 - No media_id found for raw/media/12288.jpg
+2024-10-15 16:22:07,297 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 16:22:07,642 - No media_id found for 12284.jpg
+2024-10-15 16:22:07,643 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 16:22:07,867 - No media_id found for 12285.jpg
+2024-10-15 16:22:07,868 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 16:22:08,200 - No media_id found for 12286.jpg
+2024-10-15 16:22:08,201 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 16:22:08,441 - No media_id found for 12287.jpg
+2024-10-15 16:22:08,442 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 16:22:08,659 - No media_id found for 12288.jpg
+2024-10-15 16:22:08,659 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 16:22:08,886 - No media_id found for 12289.jpg
+2024-10-15 16:22:08,886 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 16:22:09,127 - No media_id found for 12290.jpg
+2024-10-15 16:22:09,127 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 16:22:09,386 - No media_id found for 12291.jpg
+2024-10-15 16:22:09,387 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 16:22:09,576 - No media_id found for 12292.jpg
+2024-10-15 16:22:09,576 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 16:22:09,789 - No media_id found for 12293.jpg
+2024-10-15 16:22:09,789 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 16:22:09,988 - No media_id found for 12294.jpg
+2024-10-15 16:22:09,988 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 16:22:10,196 - No media_id found for 12295.jpg
+2024-10-15 16:22:10,197 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 16:22:10,353 - No media_id found for 12296.jpg
+2024-10-15 16:22:10,353 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 16:22:10,529 - No media_id found for 12297.jpg
+2024-10-15 16:22:10,529 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 16:22:10,718 - No media_id found for 12298.jpg
+2024-10-15 16:22:10,719 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 16:22:10,990 - No media_id found for 12299.jpg
+2024-10-15 16:22:10,991 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 16:22:11,214 - No media_id found for 12300.jpg
+2024-10-15 16:22:11,214 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 16:22:11,439 - No media_id found for 12301.jpg
+2024-10-15 16:22:11,439 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 16:22:11,648 - No media_id found for 12302.jpg
+2024-10-15 16:22:11,649 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 16:22:11,859 - No media_id found for 12303.jpg
+2024-10-15 16:22:11,860 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 16:22:12,095 - No media_id found for 12304.jpg
+2024-10-15 16:22:12,096 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 16:22:12,268 - No media_id found for 12305.jpg
+2024-10-15 16:22:12,269 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 16:22:12,444 - No media_id found for 12306.jpg
+2024-10-15 16:22:12,444 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 16:22:12,646 - No media_id found for 12307.jpg
+2024-10-15 16:22:12,646 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 16:22:12,869 - No media_id found for 12308.jpg
+2024-10-15 16:22:12,869 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 16:22:13,089 - No media_id found for 12309.jpg
+2024-10-15 16:22:13,089 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 16:22:13,364 - No media_id found for 12310.jpg
+2024-10-15 16:22:13,365 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 16:22:13,633 - No media_id found for 12311.jpg
+2024-10-15 16:22:13,633 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 16:22:13,885 - No media_id found for 12312.jpg
+2024-10-15 16:22:13,886 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 16:22:14,236 - No media_id found for 12313.jpg
+2024-10-15 16:22:14,236 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:22:14,553 - No media_id found for 12314.jpg
+2024-10-15 16:22:14,554 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:22:14,827 - No media_id found for 12315.jpg
+2024-10-15 16:22:14,827 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:22:15,056 - No media_id found for 12316.jpg
+2024-10-15 16:22:15,057 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:22:15,273 - No media_id found for 12317.jpg
+2024-10-15 16:22:15,273 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:22:15,700 - No media_id found for 12318.jpg
+2024-10-15 16:22:15,701 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:22:15,956 - No media_id found for 12319.jpg
+2024-10-15 16:22:15,956 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:22:16,188 - No media_id found for 12320.jpg
+2024-10-15 16:22:16,188 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:22:16,362 - No media_id found for 12321.jpg
+2024-10-15 16:22:16,362 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:22:16,644 - No media_id found for 12322.jpg
+2024-10-15 16:22:16,644 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:22:17,026 - No media_id found for 12323.jpg
+2024-10-15 16:22:17,026 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:22:17,352 - No media_id found for 12324.jpg
+2024-10-15 16:22:17,352 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:22:17,663 - No media_id found for 12325.jpg
+2024-10-15 16:22:17,664 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:22:17,925 - No media_id found for 12326.jpg
+2024-10-15 16:22:17,926 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:22:18,194 - No media_id found for 12327.jpg
+2024-10-15 16:22:18,195 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:22:18,497 - No media_id found for 12328.jpg
+2024-10-15 16:22:18,497 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:22:18,730 - No media_id found for 12329.jpg
+2024-10-15 16:22:18,731 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:22:18,959 - No media_id found for 12330.jpg
+2024-10-15 16:22:18,961 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:22:19,262 - No media_id found for 12331.jpg
+2024-10-15 16:22:19,262 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:22:19,582 - No media_id found for 12332.jpg
+2024-10-15 16:22:19,582 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:22:19,904 - No media_id found for 12333.jpg
+2024-10-15 16:22:19,905 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:22:20,175 - No media_id found for 12334.jpg
+2024-10-15 16:22:20,176 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:22:20,553 - No media_id found for 12335.jpg
+2024-10-15 16:22:20,553 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:22:20,884 - No media_id found for 12336.jpg
+2024-10-15 16:22:20,885 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:22:21,199 - No media_id found for 12338.jpg
+2024-10-15 16:22:21,199 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:22:21,523 - No media_id found for 12339.jpg
+2024-10-15 16:22:21,524 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:22:21,909 - No media_id found for 12340.jpg
+2024-10-15 16:22:21,910 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:22:22,243 - No media_id found for 12341.jpg
+2024-10-15 16:22:22,243 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:22:22,530 - No media_id found for 12342.jpg
+2024-10-15 16:22:22,530 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:22:22,875 - No media_id found for 12343.jpg
+2024-10-15 16:22:22,876 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:22:23,297 - No media_id found for 12344.jpg
+2024-10-15 16:22:23,298 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:22:23,589 - No media_id found for 12345.jpg
+2024-10-15 16:22:23,589 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:22:23,854 - No media_id found for 12346.jpg
+2024-10-15 16:22:23,854 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:22:24,181 - No media_id found for 12347.jpg
+2024-10-15 16:22:24,182 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:22:24,482 - No media_id found for 12348.jpg
+2024-10-15 16:22:24,483 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:22:24,762 - No media_id found for 12349.jpg
+2024-10-15 16:22:24,763 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:22:25,168 - No media_id found for 12350.jpg
+2024-10-15 16:22:25,169 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:22:25,421 - No media_id found for 12351.jpg
+2024-10-15 16:22:25,421 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:22:25,747 - No media_id found for 12352.jpg
+2024-10-15 16:22:25,747 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:22:26,119 - No media_id found for 12354.jpg
+2024-10-15 16:22:26,120 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:22:26,380 - No media_id found for 12355.jpg
+2024-10-15 16:22:26,381 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:22:26,688 - No media_id found for 12356.jpg
+2024-10-15 16:22:26,688 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:22:26,982 - No media_id found for 12357.jpg
+2024-10-15 16:22:26,982 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:22:27,213 - No media_id found for 12358.jpg
+2024-10-15 16:22:27,214 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:22:27,471 - No media_id found for 12359.jpg
+2024-10-15 16:22:27,471 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:22:27,934 - No media_id found for 12360.jpg
+2024-10-15 16:22:27,935 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:22:28,167 - No media_id found for 12361.jpg
+2024-10-15 16:22:28,167 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:22:28,393 - No media_id found for 12362.jpg
+2024-10-15 16:22:28,394 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:22:28,650 - No media_id found for 12363.jpg
+2024-10-15 16:22:28,651 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:22:28,908 - No media_id found for 12364.jpg
+2024-10-15 16:22:28,909 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:22:29,124 - No media_id found for 12365.jpg
+2024-10-15 16:22:29,124 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:22:29,338 - No media_id found for 12366.jpg
+2024-10-15 16:22:29,338 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:22:29,566 - No media_id found for 12367.jpg
+2024-10-15 16:22:29,566 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:22:29,828 - No media_id found for 12368.jpg
+2024-10-15 16:22:29,829 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:22:30,097 - No media_id found for 12369.jpg
+2024-10-15 16:22:30,098 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:22:30,344 - No media_id found for 12370.jpg
+2024-10-15 16:22:30,345 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:22:30,596 - No media_id found for 12371.jpg
+2024-10-15 16:22:30,596 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:22:31,181 - No media_id found for 12372.jpg
+2024-10-15 16:22:31,181 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:22:31,448 - No media_id found for 12373.jpg
+2024-10-15 16:22:31,449 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:22:31,670 - No media_id found for 12374.jpg
+2024-10-15 16:22:31,670 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:22:31,929 - No media_id found for 12375.jpg
+2024-10-15 16:22:31,930 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:22:32,189 - No media_id found for 12376.jpg
+2024-10-15 16:22:32,189 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:22:32,466 - No media_id found for 12377.jpg
+2024-10-15 16:22:32,466 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:22:32,715 - No media_id found for 12378.jpg
+2024-10-15 16:22:32,716 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:22:32,985 - No media_id found for 12379.jpg
+2024-10-15 16:22:32,986 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:22:33,221 - No media_id found for 12380.jpg
+2024-10-15 16:22:33,222 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:22:33,472 - No media_id found for 12381.jpg
+2024-10-15 16:22:33,472 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:22:33,743 - No media_id found for 12382.jpg
+2024-10-15 16:22:33,743 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:22:34,104 - No media_id found for 12383.jpg
+2024-10-15 16:22:34,104 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:22:34,470 - No media_id found for 12384.jpg
+2024-10-15 16:22:34,470 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:22:34,765 - No media_id found for 12385.jpg
+2024-10-15 16:22:34,766 - Object detection completed.
+2024-10-15 16:22:52,910 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 16:22:53,233 - Detected bottle with confidence 0.58 in 12284.jpg
+2024-10-15 16:22:53,233 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 16:22:53,564 - Detected bottle with confidence 0.31 in 12285.jpg
+2024-10-15 16:22:53,564 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 16:22:53,853 - Detected bowl with confidence 0.67 in 12286.jpg
+2024-10-15 16:22:53,853 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 16:22:54,063 - Detected vase with confidence 0.25 in 12287.jpg
+2024-10-15 16:22:54,063 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 16:22:54,310 - No media_id found for raw/media/12288.jpg
+2024-10-15 16:22:54,311 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 16:22:54,512 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 16:22:54,769 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 16:22:55,092 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 16:22:55,309 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 16:22:55,533 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 16:22:55,738 - Detected cup with confidence 0.75 in 12294.jpg
+2024-10-15 16:22:55,739 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 16:22:55,970 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 16:22:56,150 - Detected bowl with confidence 0.48 in 12296.jpg
+2024-10-15 16:22:56,150 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 16:22:56,325 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 16:22:56,522 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 16:22:56,793 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 16:22:57,015 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 16:22:57,276 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 16:22:57,561 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 16:22:57,801 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 16:22:58,062 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 16:22:58,392 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 16:22:58,665 - Detected bottle with confidence 0.29 in 12306.jpg
+2024-10-15 16:22:58,665 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 16:22:58,909 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 16:22:59,173 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 16:22:59,504 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 16:22:59,806 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 16:23:00,106 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 16:23:00,649 - Detected person with confidence 0.84 in 12312.jpg
+2024-10-15 16:23:00,649 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 16:23:01,160 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:23:01,538 - Detected bottle with confidence 0.56 in 12314.jpg
+2024-10-15 16:23:01,539 - Detected bottle with confidence 0.39 in 12314.jpg
+2024-10-15 16:23:01,539 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:23:02,048 - Detected cup with confidence 0.37 in 12315.jpg
+2024-10-15 16:23:02,049 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:23:02,452 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:23:02,840 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:23:03,425 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:23:04,370 - No media_id found for raw/media/12319.jpg
+2024-10-15 16:23:04,370 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:23:05,128 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:23:05,420 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:23:05,784 - Detected cup with confidence 0.30 in 12322.jpg
+2024-10-15 16:23:05,785 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:23:06,107 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:23:06,326 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:23:06,600 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:23:06,863 - Detected cup with confidence 0.39 in 12326.jpg
+2024-10-15 16:23:06,864 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:23:07,142 - Detected book with confidence 0.65 in 12327.jpg
+2024-10-15 16:23:07,142 - Detected book with confidence 0.43 in 12327.jpg
+2024-10-15 16:23:07,142 - Detected person with confidence 0.31 in 12327.jpg
+2024-10-15 16:23:07,142 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:23:07,394 - Detected bottle with confidence 0.37 in 12328.jpg
+2024-10-15 16:23:07,394 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:23:07,616 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:23:07,877 - Detected bottle with confidence 0.47 in 12330.jpg
+2024-10-15 16:23:07,877 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:23:08,141 - Detected person with confidence 0.86 in 12331.jpg
+2024-10-15 16:23:08,141 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:23:08,436 - Detected clock with confidence 0.65 in 12332.jpg
+2024-10-15 16:23:08,436 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:23:08,777 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:23:09,009 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:23:09,266 - Detected person with confidence 0.85 in 12335.jpg
+2024-10-15 16:23:09,267 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:23:09,590 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:23:09,901 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:23:10,165 - Detected bowl with confidence 0.67 in 12339.jpg
+2024-10-15 16:23:10,166 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:23:10,422 - Detected vase with confidence 0.25 in 12340.jpg
+2024-10-15 16:23:10,422 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:23:10,693 - No media_id found for raw/media/12341.jpg
+2024-10-15 16:23:10,693 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:23:10,916 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:23:11,166 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:23:11,455 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:23:11,890 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:23:12,340 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:23:12,666 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:23:13,021 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:23:13,351 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:23:13,635 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:23:13,821 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:23:14,098 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:23:14,341 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:23:14,581 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:23:14,804 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:23:15,175 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:23:15,445 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:23:15,668 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:23:15,898 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:23:16,188 - Detected bottle with confidence 0.55 in 12361.jpg
+2024-10-15 16:23:16,188 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:23:16,579 - Detected vase with confidence 0.28 in 12362.jpg
+2024-10-15 16:23:16,580 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:23:16,789 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:23:16,995 - Detected bottle with confidence 0.57 in 12364.jpg
+2024-10-15 16:23:16,995 - Detected bottle with confidence 0.56 in 12364.jpg
+2024-10-15 16:23:16,995 - Detected bottle with confidence 0.52 in 12364.jpg
+2024-10-15 16:23:16,995 - Detected toilet with confidence 0.49 in 12364.jpg
+2024-10-15 16:23:16,995 - Detected bottle with confidence 0.47 in 12364.jpg
+2024-10-15 16:23:16,995 - Detected bottle with confidence 0.39 in 12364.jpg
+2024-10-15 16:23:16,995 - Detected suitcase with confidence 0.31 in 12364.jpg
+2024-10-15 16:23:16,996 - Detected toilet with confidence 0.28 in 12364.jpg
+2024-10-15 16:23:16,996 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:23:17,211 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:23:17,408 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:23:17,653 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:23:17,914 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:23:18,237 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:23:18,569 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:23:19,040 - Detected cup with confidence 0.39 in 12371.jpg
+2024-10-15 16:23:19,040 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:23:19,480 - Detected book with confidence 0.65 in 12372.jpg
+2024-10-15 16:23:19,480 - Detected book with confidence 0.43 in 12372.jpg
+2024-10-15 16:23:19,480 - Detected person with confidence 0.31 in 12372.jpg
+2024-10-15 16:23:19,480 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:23:19,861 - Detected bottle with confidence 0.37 in 12373.jpg
+2024-10-15 16:23:19,862 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:23:20,260 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:23:20,607 - Detected bottle with confidence 0.47 in 12375.jpg
+2024-10-15 16:23:20,607 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:23:20,899 - Detected person with confidence 0.86 in 12376.jpg
+2024-10-15 16:23:20,899 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:23:21,167 - Detected clock with confidence 0.65 in 12377.jpg
+2024-10-15 16:23:21,167 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:23:21,500 - Detected person with confidence 0.85 in 12378.jpg
+2024-10-15 16:23:21,500 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:23:21,755 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:23:21,983 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:23:22,222 - Detected bowl with confidence 0.67 in 12381.jpg
+2024-10-15 16:23:22,223 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:23:22,470 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:23:22,750 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:23:23,052 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:23:23,278 - Error storing detection data to the database: (psycopg2.errors.UndefinedColumn) column "detection_time" of relation "detections" does not exist
+LINE 1: ...media_id, object_class, confidence, bounding_box, detection_...
+                                                             ^
+
+[SQL: INSERT INTO detections (media_id, object_class, confidence, bounding_box, detection_time) VALUES (%(media_id)s, %(class_name)s, %(confidence)s, %(bounding_box)s, %(detection_time)s)]
+[parameters: {'media_id': 272, 'class_name': 'bottle', 'confidence': 0.5815025568008423, 'bounding_box': '353.0731201171875,90.54412841796875,675.661376953125,925.9990844726562', 'detection_time': datetime.datetime(2024, 10, 15, 16, 22, 53, 233482)}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-10-15 16:23:23,278 - Object detection completed.
+2024-10-15 16:25:26,232 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 16:25:26,503 - Detected bottle with confidence 0.58 in 12284.jpg
+2024-10-15 16:25:26,503 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 16:25:26,696 - Detected bottle with confidence 0.31 in 12285.jpg
+2024-10-15 16:25:26,696 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 16:25:26,888 - Detected bowl with confidence 0.67 in 12286.jpg
+2024-10-15 16:25:26,888 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 16:25:27,076 - Detected vase with confidence 0.25 in 12287.jpg
+2024-10-15 16:25:27,076 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 16:25:27,272 - No media_id found for raw/media/12288.jpg
+2024-10-15 16:25:27,272 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 16:25:27,432 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 16:25:27,641 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 16:25:27,919 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 16:25:28,118 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 16:25:28,316 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 16:25:28,513 - Detected cup with confidence 0.75 in 12294.jpg
+2024-10-15 16:25:28,514 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 16:25:28,726 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 16:25:28,929 - Detected bowl with confidence 0.48 in 12296.jpg
+2024-10-15 16:25:28,929 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 16:25:29,167 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 16:25:29,427 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 16:25:29,821 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 16:25:30,170 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 16:25:30,466 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 16:25:30,823 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 16:25:31,143 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 16:25:31,394 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 16:25:31,655 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 16:25:31,969 - Detected bottle with confidence 0.29 in 12306.jpg
+2024-10-15 16:25:31,969 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 16:25:32,279 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 16:25:32,641 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 16:25:32,889 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 16:25:33,149 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 16:25:33,540 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 16:25:33,892 - Detected person with confidence 0.84 in 12312.jpg
+2024-10-15 16:25:33,892 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 16:25:34,174 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:25:34,446 - Detected bottle with confidence 0.56 in 12314.jpg
+2024-10-15 16:25:34,446 - Detected bottle with confidence 0.39 in 12314.jpg
+2024-10-15 16:25:34,446 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:25:34,766 - Detected cup with confidence 0.37 in 12315.jpg
+2024-10-15 16:25:34,766 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:25:35,295 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:25:35,658 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:25:36,326 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:25:36,902 - No media_id found for raw/media/12319.jpg
+2024-10-15 16:25:36,902 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:25:37,569 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:25:37,965 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:25:38,318 - Detected cup with confidence 0.30 in 12322.jpg
+2024-10-15 16:25:38,318 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:25:38,774 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:25:39,012 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:25:39,342 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:25:39,604 - Detected cup with confidence 0.39 in 12326.jpg
+2024-10-15 16:25:39,604 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:25:39,814 - Detected book with confidence 0.65 in 12327.jpg
+2024-10-15 16:25:39,814 - Detected book with confidence 0.43 in 12327.jpg
+2024-10-15 16:25:39,814 - Detected person with confidence 0.31 in 12327.jpg
+2024-10-15 16:25:39,814 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:25:40,167 - Detected bottle with confidence 0.37 in 12328.jpg
+2024-10-15 16:25:40,167 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:25:40,525 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:25:40,848 - Detected bottle with confidence 0.47 in 12330.jpg
+2024-10-15 16:25:40,848 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:25:41,167 - Detected person with confidence 0.86 in 12331.jpg
+2024-10-15 16:25:41,168 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:25:41,514 - Detected clock with confidence 0.65 in 12332.jpg
+2024-10-15 16:25:41,515 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:25:41,832 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:25:42,129 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:25:42,355 - Detected person with confidence 0.85 in 12335.jpg
+2024-10-15 16:25:42,356 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:25:42,603 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:25:42,880 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:25:43,136 - Detected bowl with confidence 0.67 in 12339.jpg
+2024-10-15 16:25:43,137 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:25:43,335 - Detected vase with confidence 0.25 in 12340.jpg
+2024-10-15 16:25:43,336 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:25:43,548 - No media_id found for raw/media/12341.jpg
+2024-10-15 16:25:43,549 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:25:43,746 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:25:44,006 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:25:44,286 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:25:44,488 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:25:44,722 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:25:45,010 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:25:45,272 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:25:45,492 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:25:45,744 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:25:45,912 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:25:46,140 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:25:46,387 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:25:46,605 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:25:46,863 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:25:47,132 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:25:47,356 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:25:47,682 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:25:47,928 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:25:48,140 - Detected bottle with confidence 0.55 in 12361.jpg
+2024-10-15 16:25:48,140 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:25:48,390 - Detected vase with confidence 0.28 in 12362.jpg
+2024-10-15 16:25:48,390 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:25:48,635 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:25:48,847 - Detected bottle with confidence 0.57 in 12364.jpg
+2024-10-15 16:25:48,848 - Detected bottle with confidence 0.56 in 12364.jpg
+2024-10-15 16:25:48,848 - Detected bottle with confidence 0.52 in 12364.jpg
+2024-10-15 16:25:48,848 - Detected toilet with confidence 0.49 in 12364.jpg
+2024-10-15 16:25:48,848 - Detected bottle with confidence 0.47 in 12364.jpg
+2024-10-15 16:25:48,848 - Detected bottle with confidence 0.39 in 12364.jpg
+2024-10-15 16:25:48,848 - Detected suitcase with confidence 0.31 in 12364.jpg
+2024-10-15 16:25:48,848 - Detected toilet with confidence 0.28 in 12364.jpg
+2024-10-15 16:25:48,848 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:25:49,054 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:25:49,273 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:25:49,540 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:25:49,862 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:25:50,276 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:25:50,533 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:25:50,813 - Detected cup with confidence 0.39 in 12371.jpg
+2024-10-15 16:25:50,813 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:25:51,132 - Detected book with confidence 0.65 in 12372.jpg
+2024-10-15 16:25:51,132 - Detected book with confidence 0.43 in 12372.jpg
+2024-10-15 16:25:51,132 - Detected person with confidence 0.31 in 12372.jpg
+2024-10-15 16:25:51,133 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:25:51,409 - Detected bottle with confidence 0.37 in 12373.jpg
+2024-10-15 16:25:51,409 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:25:51,699 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:25:52,007 - Detected bottle with confidence 0.47 in 12375.jpg
+2024-10-15 16:25:52,007 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:25:52,287 - Detected person with confidence 0.86 in 12376.jpg
+2024-10-15 16:25:52,287 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:25:52,555 - Detected clock with confidence 0.65 in 12377.jpg
+2024-10-15 16:25:52,555 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:25:52,846 - Detected person with confidence 0.85 in 12378.jpg
+2024-10-15 16:25:52,846 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:25:53,090 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:25:53,322 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:25:53,565 - Detected bowl with confidence 0.67 in 12381.jpg
+2024-10-15 16:25:53,566 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:25:53,792 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:25:54,121 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:25:54,452 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:25:54,754 - Stored 43 detection records to the database.
+2024-10-15 16:25:54,755 - Object detection completed.
+2024-10-15 16:28:55,662 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 16:28:55,944 - Detected bottle with confidence 0.58 in 12284.jpg
+2024-10-15 16:28:55,944 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 16:28:56,138 - Detected bottle with confidence 0.31 in 12285.jpg
+2024-10-15 16:28:56,138 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 16:28:56,316 - Detected bowl with confidence 0.67 in 12286.jpg
+2024-10-15 16:28:56,316 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 16:28:56,499 - Detected vase with confidence 0.25 in 12287.jpg
+2024-10-15 16:28:56,499 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 16:28:56,731 - No media_id found for raw/media/12288.jpg
+2024-10-15 16:28:56,731 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 16:28:56,939 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 16:28:57,168 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 16:28:57,502 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 16:28:57,723 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 16:28:58,030 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 16:28:58,234 - Detected cup with confidence 0.75 in 12294.jpg
+2024-10-15 16:28:58,234 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 16:28:58,435 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 16:28:58,595 - Detected bowl with confidence 0.48 in 12296.jpg
+2024-10-15 16:28:58,596 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 16:28:58,775 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 16:28:58,968 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 16:28:59,252 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 16:28:59,522 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 16:28:59,815 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 16:29:00,069 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 16:29:00,265 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 16:29:00,462 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 16:29:00,667 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 16:29:00,881 - Detected bottle with confidence 0.29 in 12306.jpg
+2024-10-15 16:29:00,881 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 16:29:01,099 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 16:29:01,313 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 16:29:01,512 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 16:29:01,709 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 16:29:01,955 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 16:29:02,171 - Detected person with confidence 0.84 in 12312.jpg
+2024-10-15 16:29:02,171 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 16:29:02,381 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:29:02,619 - Detected bottle with confidence 0.56 in 12314.jpg
+2024-10-15 16:29:02,619 - Detected bottle with confidence 0.39 in 12314.jpg
+2024-10-15 16:29:02,619 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:29:02,900 - Detected cup with confidence 0.37 in 12315.jpg
+2024-10-15 16:29:02,900 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:29:03,150 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:29:03,390 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:29:03,755 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:29:04,260 - No media_id found for raw/media/12319.jpg
+2024-10-15 16:29:04,260 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:29:04,974 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:29:05,652 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:29:06,115 - Detected cup with confidence 0.30 in 12322.jpg
+2024-10-15 16:29:06,115 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:29:06,407 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:29:06,671 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:29:06,993 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:29:07,400 - Detected cup with confidence 0.39 in 12326.jpg
+2024-10-15 16:29:07,400 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:29:07,717 - Detected book with confidence 0.65 in 12327.jpg
+2024-10-15 16:29:07,717 - Detected book with confidence 0.43 in 12327.jpg
+2024-10-15 16:29:07,717 - Detected person with confidence 0.31 in 12327.jpg
+2024-10-15 16:29:07,717 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:29:08,036 - Detected bottle with confidence 0.37 in 12328.jpg
+2024-10-15 16:29:08,036 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:29:08,318 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:29:08,584 - Detected bottle with confidence 0.47 in 12330.jpg
+2024-10-15 16:29:08,584 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:29:08,832 - Detected person with confidence 0.86 in 12331.jpg
+2024-10-15 16:29:08,833 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:29:09,166 - Detected clock with confidence 0.65 in 12332.jpg
+2024-10-15 16:29:09,167 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:29:09,469 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:29:09,786 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:29:10,066 - Detected person with confidence 0.85 in 12335.jpg
+2024-10-15 16:29:10,067 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:29:10,312 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:29:10,541 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:29:10,778 - Detected bowl with confidence 0.67 in 12339.jpg
+2024-10-15 16:29:10,779 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:29:10,993 - Detected vase with confidence 0.25 in 12340.jpg
+2024-10-15 16:29:10,994 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:29:11,219 - No media_id found for raw/media/12341.jpg
+2024-10-15 16:29:11,220 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:29:11,562 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:29:12,048 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:29:12,926 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:29:13,339 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:29:13,667 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:29:13,995 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:29:14,206 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:29:14,431 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:29:14,720 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:29:14,969 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:29:15,236 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:29:15,598 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:29:15,833 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:29:16,072 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:29:16,333 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:29:16,555 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:29:16,776 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:29:17,054 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:29:17,329 - Detected bottle with confidence 0.55 in 12361.jpg
+2024-10-15 16:29:17,329 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:29:17,601 - Detected vase with confidence 0.28 in 12362.jpg
+2024-10-15 16:29:17,602 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:29:17,812 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:29:18,037 - Detected bottle with confidence 0.57 in 12364.jpg
+2024-10-15 16:29:18,037 - Detected bottle with confidence 0.56 in 12364.jpg
+2024-10-15 16:29:18,037 - Detected bottle with confidence 0.52 in 12364.jpg
+2024-10-15 16:29:18,037 - Detected toilet with confidence 0.49 in 12364.jpg
+2024-10-15 16:29:18,038 - Detected bottle with confidence 0.47 in 12364.jpg
+2024-10-15 16:29:18,038 - Detected bottle with confidence 0.39 in 12364.jpg
+2024-10-15 16:29:18,038 - Detected suitcase with confidence 0.31 in 12364.jpg
+2024-10-15 16:29:18,038 - Detected toilet with confidence 0.28 in 12364.jpg
+2024-10-15 16:29:18,038 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:29:18,258 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:29:18,518 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:29:18,739 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:29:18,990 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:29:19,222 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:29:19,496 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:29:19,763 - Detected cup with confidence 0.39 in 12371.jpg
+2024-10-15 16:29:19,764 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:29:20,188 - Detected book with confidence 0.65 in 12372.jpg
+2024-10-15 16:29:20,188 - Detected book with confidence 0.43 in 12372.jpg
+2024-10-15 16:29:20,188 - Detected person with confidence 0.31 in 12372.jpg
+2024-10-15 16:29:20,188 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:29:20,533 - Detected bottle with confidence 0.37 in 12373.jpg
+2024-10-15 16:29:20,533 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:29:20,840 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:29:21,240 - Detected bottle with confidence 0.47 in 12375.jpg
+2024-10-15 16:29:21,241 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:29:21,566 - Detected person with confidence 0.86 in 12376.jpg
+2024-10-15 16:29:21,567 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:29:21,924 - Detected clock with confidence 0.65 in 12377.jpg
+2024-10-15 16:29:21,924 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:29:22,225 - Detected person with confidence 0.85 in 12378.jpg
+2024-10-15 16:29:22,225 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:29:22,460 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:29:22,723 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:29:23,064 - Detected bowl with confidence 0.67 in 12381.jpg
+2024-10-15 16:29:23,064 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:29:23,484 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:29:23,788 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:29:24,106 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:29:24,387 - Stored 43 detection records to the database.
+2024-10-15 16:29:24,388 - Object detection completed.
+2024-10-15 16:32:05,082 - Processing image: Data/raw/media/12284.jpg
+2024-10-15 16:32:05,338 - Detected bottle with confidence 0.58 in 12284.jpg
+2024-10-15 16:32:05,338 - Processing image: Data/raw/media/12285.jpg
+2024-10-15 16:32:05,526 - Detected bottle with confidence 0.31 in 12285.jpg
+2024-10-15 16:32:05,526 - Processing image: Data/raw/media/12286.jpg
+2024-10-15 16:32:05,717 - Detected bowl with confidence 0.67 in 12286.jpg
+2024-10-15 16:32:05,717 - Processing image: Data/raw/media/12287.jpg
+2024-10-15 16:32:05,904 - Detected vase with confidence 0.25 in 12287.jpg
+2024-10-15 16:32:05,904 - Processing image: Data/raw/media/12288.jpg
+2024-10-15 16:32:06,089 - No media_id found for raw/media/12288.jpg
+2024-10-15 16:32:06,089 - Processing image: Data/raw/media/12289.jpg
+2024-10-15 16:32:06,270 - Processing image: Data/raw/media/12290.jpg
+2024-10-15 16:32:06,474 - Processing image: Data/raw/media/12291.jpg
+2024-10-15 16:32:06,704 - Processing image: Data/raw/media/12292.jpg
+2024-10-15 16:32:06,905 - Processing image: Data/raw/media/12293.jpg
+2024-10-15 16:32:07,098 - Processing image: Data/raw/media/12294.jpg
+2024-10-15 16:32:07,265 - Detected cup with confidence 0.75 in 12294.jpg
+2024-10-15 16:32:07,265 - Processing image: Data/raw/media/12295.jpg
+2024-10-15 16:32:07,493 - Processing image: Data/raw/media/12296.jpg
+2024-10-15 16:32:07,665 - Detected bowl with confidence 0.48 in 12296.jpg
+2024-10-15 16:32:07,665 - Processing image: Data/raw/media/12297.jpg
+2024-10-15 16:32:07,919 - Processing image: Data/raw/media/12298.jpg
+2024-10-15 16:32:08,101 - Processing image: Data/raw/media/12299.jpg
+2024-10-15 16:32:08,423 - Processing image: Data/raw/media/12300.jpg
+2024-10-15 16:32:08,689 - Processing image: Data/raw/media/12301.jpg
+2024-10-15 16:32:08,922 - Processing image: Data/raw/media/12302.jpg
+2024-10-15 16:32:09,122 - Processing image: Data/raw/media/12303.jpg
+2024-10-15 16:32:09,305 - Processing image: Data/raw/media/12304.jpg
+2024-10-15 16:32:09,497 - Processing image: Data/raw/media/12305.jpg
+2024-10-15 16:32:09,734 - Processing image: Data/raw/media/12306.jpg
+2024-10-15 16:32:09,955 - Detected bottle with confidence 0.29 in 12306.jpg
+2024-10-15 16:32:09,956 - Processing image: Data/raw/media/12307.jpg
+2024-10-15 16:32:10,151 - Processing image: Data/raw/media/12308.jpg
+2024-10-15 16:32:10,385 - Processing image: Data/raw/media/12309.jpg
+2024-10-15 16:32:10,604 - Processing image: Data/raw/media/12310.jpg
+2024-10-15 16:32:10,858 - Processing image: Data/raw/media/12311.jpg
+2024-10-15 16:32:11,094 - Processing image: Data/raw/media/12312.jpg
+2024-10-15 16:32:11,360 - Detected person with confidence 0.84 in 12312.jpg
+2024-10-15 16:32:11,360 - Processing image: Data/raw/media/12313.jpg
+2024-10-15 16:32:11,688 - Processing image: Data/raw/media/12314.jpg
+2024-10-15 16:32:12,003 - Detected bottle with confidence 0.56 in 12314.jpg
+2024-10-15 16:32:12,004 - Detected bottle with confidence 0.39 in 12314.jpg
+2024-10-15 16:32:12,004 - Processing image: Data/raw/media/12315.jpg
+2024-10-15 16:32:12,416 - Detected cup with confidence 0.37 in 12315.jpg
+2024-10-15 16:32:12,416 - Processing image: Data/raw/media/12316.jpg
+2024-10-15 16:32:12,782 - Processing image: Data/raw/media/12317.jpg
+2024-10-15 16:32:13,066 - Processing image: Data/raw/media/12318.jpg
+2024-10-15 16:32:13,335 - Processing image: Data/raw/media/12319.jpg
+2024-10-15 16:32:13,578 - No media_id found for raw/media/12319.jpg
+2024-10-15 16:32:13,579 - Processing image: Data/raw/media/12320.jpg
+2024-10-15 16:32:13,826 - Processing image: Data/raw/media/12321.jpg
+2024-10-15 16:32:14,065 - Processing image: Data/raw/media/12322.jpg
+2024-10-15 16:32:14,283 - Detected cup with confidence 0.30 in 12322.jpg
+2024-10-15 16:32:14,283 - Processing image: Data/raw/media/12323.jpg
+2024-10-15 16:32:14,588 - Processing image: Data/raw/media/12324.jpg
+2024-10-15 16:32:14,815 - Processing image: Data/raw/media/12325.jpg
+2024-10-15 16:32:15,064 - Processing image: Data/raw/media/12326.jpg
+2024-10-15 16:32:15,314 - Detected cup with confidence 0.39 in 12326.jpg
+2024-10-15 16:32:15,314 - Processing image: Data/raw/media/12327.jpg
+2024-10-15 16:32:15,609 - Detected book with confidence 0.65 in 12327.jpg
+2024-10-15 16:32:15,609 - Detected book with confidence 0.43 in 12327.jpg
+2024-10-15 16:32:15,610 - Detected person with confidence 0.31 in 12327.jpg
+2024-10-15 16:32:15,610 - Processing image: Data/raw/media/12328.jpg
+2024-10-15 16:32:15,889 - Detected bottle with confidence 0.37 in 12328.jpg
+2024-10-15 16:32:15,889 - Processing image: Data/raw/media/12329.jpg
+2024-10-15 16:32:16,129 - Processing image: Data/raw/media/12330.jpg
+2024-10-15 16:32:16,404 - Detected bottle with confidence 0.47 in 12330.jpg
+2024-10-15 16:32:16,404 - Processing image: Data/raw/media/12331.jpg
+2024-10-15 16:32:16,651 - Detected person with confidence 0.86 in 12331.jpg
+2024-10-15 16:32:16,651 - Processing image: Data/raw/media/12332.jpg
+2024-10-15 16:32:16,918 - Detected clock with confidence 0.65 in 12332.jpg
+2024-10-15 16:32:16,919 - Processing image: Data/raw/media/12333.jpg
+2024-10-15 16:32:17,181 - Processing image: Data/raw/media/12334.jpg
+2024-10-15 16:32:17,429 - Processing image: Data/raw/media/12335.jpg
+2024-10-15 16:32:17,908 - Detected person with confidence 0.85 in 12335.jpg
+2024-10-15 16:32:17,908 - Processing image: Data/raw/media/12336.jpg
+2024-10-15 16:32:18,172 - Processing image: Data/raw/media/12338.jpg
+2024-10-15 16:32:18,420 - Processing image: Data/raw/media/12339.jpg
+2024-10-15 16:32:18,740 - Detected bowl with confidence 0.67 in 12339.jpg
+2024-10-15 16:32:18,741 - Processing image: Data/raw/media/12340.jpg
+2024-10-15 16:32:18,978 - Detected vase with confidence 0.25 in 12340.jpg
+2024-10-15 16:32:18,978 - Processing image: Data/raw/media/12341.jpg
+2024-10-15 16:32:19,252 - No media_id found for raw/media/12341.jpg
+2024-10-15 16:32:19,252 - Processing image: Data/raw/media/12342.jpg
+2024-10-15 16:32:19,487 - Processing image: Data/raw/media/12343.jpg
+2024-10-15 16:32:19,721 - Processing image: Data/raw/media/12344.jpg
+2024-10-15 16:32:20,003 - Processing image: Data/raw/media/12345.jpg
+2024-10-15 16:32:20,250 - Processing image: Data/raw/media/12346.jpg
+2024-10-15 16:32:20,534 - Processing image: Data/raw/media/12347.jpg
+2024-10-15 16:32:20,774 - Processing image: Data/raw/media/12348.jpg
+2024-10-15 16:32:20,984 - Processing image: Data/raw/media/12349.jpg
+2024-10-15 16:32:21,197 - Processing image: Data/raw/media/12350.jpg
+2024-10-15 16:32:21,483 - Processing image: Data/raw/media/12351.jpg
+2024-10-15 16:32:21,659 - Processing image: Data/raw/media/12352.jpg
+2024-10-15 16:32:21,910 - Processing image: Data/raw/media/12354.jpg
+2024-10-15 16:32:22,157 - Processing image: Data/raw/media/12355.jpg
+2024-10-15 16:32:22,384 - Processing image: Data/raw/media/12356.jpg
+2024-10-15 16:32:22,690 - Processing image: Data/raw/media/12357.jpg
+2024-10-15 16:32:22,984 - Processing image: Data/raw/media/12358.jpg
+2024-10-15 16:32:23,236 - Processing image: Data/raw/media/12359.jpg
+2024-10-15 16:32:23,458 - Processing image: Data/raw/media/12360.jpg
+2024-10-15 16:32:23,701 - Processing image: Data/raw/media/12361.jpg
+2024-10-15 16:32:23,999 - Detected bottle with confidence 0.55 in 12361.jpg
+2024-10-15 16:32:24,000 - Processing image: Data/raw/media/12362.jpg
+2024-10-15 16:32:24,254 - Detected vase with confidence 0.28 in 12362.jpg
+2024-10-15 16:32:24,255 - Processing image: Data/raw/media/12363.jpg
+2024-10-15 16:32:24,429 - Processing image: Data/raw/media/12364.jpg
+2024-10-15 16:32:24,646 - Detected bottle with confidence 0.57 in 12364.jpg
+2024-10-15 16:32:24,647 - Detected bottle with confidence 0.56 in 12364.jpg
+2024-10-15 16:32:24,647 - Detected bottle with confidence 0.52 in 12364.jpg
+2024-10-15 16:32:24,648 - Detected toilet with confidence 0.49 in 12364.jpg
+2024-10-15 16:32:24,648 - Detected bottle with confidence 0.47 in 12364.jpg
+2024-10-15 16:32:24,648 - Detected bottle with confidence 0.39 in 12364.jpg
+2024-10-15 16:32:24,648 - Detected suitcase with confidence 0.31 in 12364.jpg
+2024-10-15 16:32:24,648 - Detected toilet with confidence 0.28 in 12364.jpg
+2024-10-15 16:32:24,648 - Processing image: Data/raw/media/12365.jpg
+2024-10-15 16:32:24,911 - Processing image: Data/raw/media/12366.jpg
+2024-10-15 16:32:25,319 - Processing image: Data/raw/media/12367.jpg
+2024-10-15 16:32:25,522 - Processing image: Data/raw/media/12368.jpg
+2024-10-15 16:32:25,750 - Processing image: Data/raw/media/12369.jpg
+2024-10-15 16:32:25,990 - Processing image: Data/raw/media/12370.jpg
+2024-10-15 16:32:26,280 - Processing image: Data/raw/media/12371.jpg
+2024-10-15 16:32:26,496 - Detected cup with confidence 0.39 in 12371.jpg
+2024-10-15 16:32:26,496 - Processing image: Data/raw/media/12372.jpg
+2024-10-15 16:32:26,715 - Detected book with confidence 0.65 in 12372.jpg
+2024-10-15 16:32:26,715 - Detected book with confidence 0.43 in 12372.jpg
+2024-10-15 16:32:26,715 - Detected person with confidence 0.31 in 12372.jpg
+2024-10-15 16:32:26,715 - Processing image: Data/raw/media/12373.jpg
+2024-10-15 16:32:26,970 - Detected bottle with confidence 0.37 in 12373.jpg
+2024-10-15 16:32:26,970 - Processing image: Data/raw/media/12374.jpg
+2024-10-15 16:32:27,268 - Processing image: Data/raw/media/12375.jpg
+2024-10-15 16:32:27,536 - Detected bottle with confidence 0.47 in 12375.jpg
+2024-10-15 16:32:27,536 - Processing image: Data/raw/media/12376.jpg
+2024-10-15 16:32:27,799 - Detected person with confidence 0.86 in 12376.jpg
+2024-10-15 16:32:27,800 - Processing image: Data/raw/media/12377.jpg
+2024-10-15 16:32:28,056 - Detected clock with confidence 0.65 in 12377.jpg
+2024-10-15 16:32:28,057 - Processing image: Data/raw/media/12378.jpg
+2024-10-15 16:32:28,396 - Detected person with confidence 0.85 in 12378.jpg
+2024-10-15 16:32:28,396 - Processing image: Data/raw/media/12379.jpg
+2024-10-15 16:32:29,066 - Processing image: Data/raw/media/12380.jpg
+2024-10-15 16:32:29,412 - Processing image: Data/raw/media/12381.jpg
+2024-10-15 16:32:30,110 - Detected bowl with confidence 0.67 in 12381.jpg
+2024-10-15 16:32:30,111 - Processing image: Data/raw/media/12382.jpg
+2024-10-15 16:32:30,737 - Processing image: Data/raw/media/12383.jpg
+2024-10-15 16:32:31,269 - Processing image: Data/raw/media/12384.jpg
+2024-10-15 16:32:31,755 - Processing image: Data/raw/media/12385.jpg
+2024-10-15 16:32:32,025 - Stored 43 detection records to the database.
+2024-10-15 16:32:32,025 - Object detection completed.
